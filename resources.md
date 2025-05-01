@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Big picture
+title: Resources
+subtitle: 
 ---
 
 This page is in development. Please return later.

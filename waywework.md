@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Big picture
+title: The way we work
+subtitle: 
 ---
 
 This page is in development. Please return later.
