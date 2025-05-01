@@ -13,3 +13,5 @@ Please use the links below to explore our handbook.
 * [The way we work](waywework) 
 * [Resources](resources)
 * [Well-being and mental health](wellbeing)
+
+You can also find out more about our group on our [University of Oxford webpages](https://www.cghr.ox.ac.uk/research/drug-resistant-infections-and-disease-dynamics-group).
