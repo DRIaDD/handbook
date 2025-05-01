@@ -9,7 +9,7 @@ These pages are currently in development. Please come back later.
 
 Please use the links below to explore our handbook. 
 
-* [bigpicture](Big picture) 
-* [waywework](The way we work) 
-* [resources](Resources) 
-* [wellbeing](Well-being and mental health) 
+* [Big picture](bigpicture)
+* [The way we work](waywework) 
+* [Resources](resources)
+* [Well-being and mental health](wellbeing)
