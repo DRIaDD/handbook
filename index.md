@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: Drug-Resistant Infections and Disease Dynamics group handbook
 subtitle: 
 ---
