@@ -5,9 +5,9 @@ title: Drug-Resistant Infections and Disease Dynamics group handbook
 
 ## Drug-Resistant Infections and Disease Dynamics group handbook
 
-This handbook was created collaboratively by members of the Drug-Resistant Infections and Disease Dynamics group, starting in 2023 and updated periodically since. It is intended to provide useful information for members of the group and for people considering joining the group.  
+This handbook was created collaboratively by members of the Drug-Resistant Infections and Disease Dynamics group, starting in 2023 and has been updated periodically since. It is intended to provide useful information for members of the group and for people considering joining the group. Some links within the handbook are to University of Oxford resources and may require you to sign in for access.
 
-Please use the links below to explore our handbook. Some links within the handbook are to University of Oxford resources and may require you to sign in.
+Please use the links below to explore our handbook.
 
 * [Big picture](bigpicture)
 * The way we work
