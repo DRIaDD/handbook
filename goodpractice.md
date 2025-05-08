@@ -4,7 +4,7 @@ title: Good practice
 subtitle: 
 ---
 
-## Good practice
+# Good practice
 
 [Good Clinical Practice (GCP)](https://en.wikipedia.org/wiki/Good_clinical_practice) is an international standard describing best practice and ethical standards in clinical research. Though it is mainly applicable to trials, aspects of it may be useful for our group too, for instance:
 

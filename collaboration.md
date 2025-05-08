@@ -4,7 +4,7 @@ title: Our collaborators and how we collaborate
 subtitle: 
 ---
 
-## Our collaborators and how we collaborate
+# Our collaborators and how we collaborate
  
 The pivotal role of science in overcoming global health challenges is underscored by the ongoing commitment of grant funding. Today, as always, it bolsters ground breaking research across diverse disciplines, spanning social sciences and humanities. The primary objective is to empower researchers, encouraging creative exploration of life, health, and wellbeing, with a vision to cultivate insights that propel future advancements in health.
  

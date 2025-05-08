@@ -4,10 +4,10 @@ title: Lab meetings
 subtitle: 
 ---
 
-## Lab meetings
+# Lab meetings
 We have two weekly whole-group lab meetings: the weekly meeting and book club. Both are scheduled for an hour. Let Sean know if you have not received the calendar invite for these. Both meetings are run in a hybrid fashion, in-person in the BDI and over Zoom.
 
-### Weekly meeting
+## Weekly meeting
 
 Presenters and chairs are listed in this spreadsheet: [https://docs.google.com/spreadsheets/d/1y8GJCW1i6KS3plXev6Bg5qGPuXc7j1_WBSv-9ZHdxxU/edit#gid=0](https://docs.google.com/spreadsheets/d/1y8GJCW1i6KS3plXev6Bg5qGPuXc7j1_WBSv-9ZHdxxU/edit#gid=0).
 
@@ -22,7 +22,7 @@ Chair's responsibilities include:
 * Keeping the meeting to time
 * Managing the discussion (if appropriate - the presenter may be better placed to do this)
 
-### Book club 
+## Book club 
 
 Books decided by vote on Slack; we have read a combination of both textbooks and more popular science type books
 

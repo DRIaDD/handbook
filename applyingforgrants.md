@@ -4,7 +4,7 @@ title: Applying for a grant
 subtitle: 
 ---
 
-## Applying for a grant
+# Applying for a grant
 
 Before writing a project for a grant or a fellowship there are some important aspects to think about. It is important to plan a proposal well in advance. Think about what you have achieved so far, and how it relates to the research you are planning to do. Who have you worked with? What groups do you have links with already? Your experience doesn't have to be only academic, and you may want to consider practical skills you have developed (like providing training or mentoring).
 
@@ -22,7 +22,7 @@ Engage with Funders: Attend events organised by funders, such as sandpits, webin
 
 Stay Connected: Keep active communication with your institutional Research Officer and subscribe to funders' newsletters.
 
-### The application
+## The application
 
 * Project proposal
 * In addition to the project, provide options for a training programme. What is the training that could be important to the leader of the project and his/her employees?
@@ -30,7 +30,7 @@ Stay Connected: Keep active communication with your institutional Research Offic
 * Include a detailed plan for the finances. In this item you can include costs regarding the salary of the research team, equipment (computers, camera, etc), research related travel costs (including who will be visited and why), conference fees (including travel + hotel), training courses, open access publication fees, costs related to hiring (including possible costs for visas).
 * Include at least two references (the requirement varies according to the funder agency).
 
-### The project
+## The project
 
 * For the project proposal, this must contain:
 * Background and importance of the topic;
@@ -46,9 +46,9 @@ After having the first draft of your project, you might consider:
 * Make it interesting: For example, considering using colourful graphics. You can make a Gantt chart more engaging.
 * Don't use lots of abbreviations and be consistent in their use (define of first use).
 * Ask specific questions.
-* You will need escape routes or alternatives plan:  Troubleshooting options.
+* You will need escape routes or alternatives plan: Troubleshooting options.
  
-### The interview
+## The interview
 
 If your application process involves an interview, it's always helpful to arrange a MOC interview to get prepared (for example, two weeks in advance). You may wish to discuss this possibility with your current line manager or in the [OU Careers Services](https://www.careers.ox.ac.uk/mock-interviews). Below we present some options of questions that may arise.
 
@@ -64,7 +64,7 @@ If your application process involves an interview, it's always helpful to arrang
 * What are the difficulties/challenges in implementing your project?
 * What do you know about the Funder Agency?
  
-### Funding options
+## Funding options
 
 Check the following resources and stay tuned on specific call applications. We also have a #funding_opportunities slack channel.
  

@@ -4,7 +4,7 @@ title: Writing a paper
 subtitle: 
 ---
 
-## Writing a paper
+# Writing a paper
 
 Many journals have specific requirements so it is a good idea to write with a specific journal in mind. For example, some journals require the methods section to go at the end, which will affect how you write the results.
 
@@ -12,7 +12,7 @@ Modelling papers can be particularly difficult as the traditional separation bet
 
 Most papers we write will be a collaboration so don’t be afraid to ask your colleagues and co-authors for help.
 
-### Authorship
+## Authorship
 
 The International Committee of Medical Journal Editors has defined authorship as requiring [four criteria](https://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html#two):
 
@@ -23,11 +23,11 @@ The International Committee of Medical Journal Editors has defined authorship as
 
 Many journals subscribe to these and require that everyone who meets the criteria is listed as an author and no one who does not meet the criteria is listed.
 
-### Pre-prints
+## Pre-prints
 
 Most journals allow work to be shared as a pre-print without affecting eligibility for full publication in the journal. Many pre-print servers are available. [medRxiv](https://www.medrxiv.org/) is the most relevant for most of our work. [bioRxiv](https://www.biorxiv.org/) and [arXiv](https://arxiv.org/) may also be relevant.
 
-### Writing tips
+## Writing tips
 
 * Present your work. Organising your thoughts for a presentation at the weekly group meeting can help to clarify the story you want to tell.
 * It's a good idea to get into the habit of writing regularly. This can be easier than doing all your writing in one go. For instance, you could set yourself a target to write for at least 30 mins every day.
@@ -49,22 +49,22 @@ Most journals allow work to be shared as a pre-print without affecting eligibili
     * Conclusions and next steps / future work
 * This thread might be useful: [https://twitter.com/vineet_chopra/status/1537843032287870977](https://twitter.com/vineet_chopra/status/1537843032287870977) which is similar to the approach described above but with more details.
 
-### Software
+## Software
 
-#### Writing software
+### Writing software
 
 * Microsoft Word / Libreoffice Writer
 * Google Docs. Less features than the others, but good for collaboration. A good approach can be to draft the manuscript in Google Docs, and then download it as a docx or odt and edit that file for publication.
 * LaTeX / Overleaf. LaTeX is useful if you are using a lot of maths, or to improve the reproducibility of your document (e.g. easier to automatically update figures if they change. Overleaf is the collaborative version of LaTeX, and the Overleaf website(https://www.overleaf.com/) has lots of templates and guides to get you started with LaTeX. Some journals also provide LaTeX templates to use for submissions.
 
-#### Reference managers
+### Reference managers
 
 * Zotero. Works with: Google docs, Microsoft Word, Libreoffice Writer. You can also export your references to a BibTeX for use with LaTeX. Open-source, and free to use.
 * Mendeley. Works with Microsoft Word and Libreoffice Writer. Owned by Elsevier. Free to use. 
 * EndNote. Works with Microsoft Word. Does not work with Linux. Free through University of Oxford IT services..
 * Paperpile. Works with Google Docs. 
 
-### Keeping track of literature
+## Keeping track of literature
 
 * Some good advice in [here](https://www.nature.com/articles/d41586-022-01878-7)
 * It is a good idea to get into a regular reading habit. For instance you might set yourself a target of reading one paper a day on average. This may be higher when you are drafting an introduction or a proposal etc.

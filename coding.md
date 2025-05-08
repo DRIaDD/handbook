@@ -4,9 +4,9 @@ title: Coding guides and advice
 subtitle: 
 ---
 
-## Coding guides / advice
+# Coding guides / advice
 
-### Effective Coding and Modelling: Using Julia and R to Their Full Potential
+## Effective Coding and Modelling: Using Julia and R to Their Full Potential
 
 Currently, R and Julia are the main programming languages used in our group.
 
@@ -25,7 +25,7 @@ For Julia:
 ** REPL: The built-in Read-Eval-Print Loop that comes with the standard Julia installation for executing Julia commands.
 ** Emacs, via the Emacs Speaks Statistics package. See above for description.
 
-### Guidelines when writing code
+## Guidelines when writing code
 
 From [Cobey's Lab handbook for coding](https://github.com/cobeylab/lab_handbook/blob/master/05-coding.Rmd), there are 5 suggested guidelines when writing code:
 

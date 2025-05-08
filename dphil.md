@@ -4,7 +4,7 @@ title: DPhil procedures at University of Oxford.
 subtitle: 
 ---
 
-## DPhil procedures at University of Oxford
+# DPhil procedures at University of Oxford
 
 The essential information of graduate study at university of Oxford can be found [here](https://www.ox.ac.uk/admissions/graduate/courses).
 
@@ -17,7 +17,7 @@ You can narrow or focus your search by alphabetically searching (A - Z of course
 
 Before applying in any courses you can use [this information](https://www.ox.ac.uk/admissions/graduate/applying-to-oxford/getting-started) to guide and tailor the way you might prefer.
 
-### Overview of studying a DPhil course in University of Oxford
+## Overview of studying a DPhil course in University of Oxford
 
 It is possible to study for a DPhil on a part-time basis. Typically, completing a DPhil on a part-time schedule necessitates *six to eight years of study*, contrasting with the *three to four years* typically required for full-time enrollment. However, part-time study may not be suitable for all projects, and it is advisable to consult with your supervisor to ensure they can accommodate such an arrangement.
 
@@ -27,13 +27,13 @@ Please refer to the student book and [this webpage](https://www.ox.ac.uk/admissi
  
 Should consider sources of fundings to support the duration of course, especially for part-time courses.
 
-### Academic terms
+## Academic terms
 
 Michaelmas term: October - December 
 Hilary term: January - March 
 Trinity term: April - June
 
-### How to apply
+## How to apply
 
 You can use [this information](https://www.ox.ac.uk/admissions/graduate/applying-to-oxford/application-guide) as guidelines to complete your allocation forms and also to prepare supporting documents along with the application development process before submitting your application.
 
@@ -44,13 +44,13 @@ You can use [this information](https://www.ox.ac.uk/admissions/graduate/applying
 5. Supporting documents
 6. Declaration and payment.
 
-### Key assessment
+## Key assessment
 
-#### Change of supervisor(s) or appointment of joint supervisors
+### Change of supervisor(s) or appointment of joint supervisors
 
 [GSO.25](https://www.ox.ac.uk/sites/files/oxford/GSO.25_4.docx)
 
-#### Transfer to DPhil
+### Transfer to DPhil
 
 All students will begin as Probationer Research Students (PRS). Within a maximum of six terms for full-time students or twelve terms for part-time students, you must apply for transfer to DPhil status. This application is typically made by the fourth term for full-time students and by the eighth term for part-time students.
 
@@ -62,13 +62,13 @@ Checklist before transfer of status:
 * Signatures (could take time especially if supervisors are busy hence always a good idea to start the process early)
 * A Training Needs Assessment form
 
-#### Confirmation
+### Confirmation
 
 Students who transfer successfully will then apply for and gain confirmation of DPhil status within nine terms for full-time students (no later than their ninth term from admission) and eighteen terms for part-time students. Confirmation examination will require a written report outlining your thesis plan (both content and timeline) and an interview with two assessors not directly involved in your supervision. Your assessors for the confirmation examination can be the same as those who examined your transfer of status, but they cannot be your final thesis & viva voca examiner. Students should discuss with their supervisors on who could be the assessors. Sub fusc is not required for the confirmation assessment examination.
 
 Checklist before confirmation: GSP14.MSD form
 
-#### Thesis and viva voce
+### Thesis and viva voce
 
 Full-time students are expected to submit a 50,000-word thesis after three or four years from admission. Part-time students must submit their thesis after six or eight years from admission. A DPhil in Medical Sciences is awarded upon successful defence of the thesis orally (viva voce) in front of two appointed examiners.
 Students should discuss with their supervisors on who could be the assessors.
@@ -76,7 +76,7 @@ Students should discuss with their supervisors on who could be the assessors.
 For detailed information, please refer to [https://www.ndm.ox.ac.uk/study/about-the-dphil](https://www.ndm.ox.ac.uk/study/about-the-dphil)
 [Example of student handbook](https://www.ndm.ox.ac.uk/files/graduate-studies/18-19-handbook.pdf/view)
 
-### Some ways (optional) to maximise the student experiences
+## Some ways (optional) to maximise the student experiences
 
 * Join MORU-OUCRU student committee (Leigh Jones)
 * Find a mentor

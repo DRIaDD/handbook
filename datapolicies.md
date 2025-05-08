@@ -4,7 +4,7 @@ title: Data policies
 subtitle: 
 ---
 
-## Data policies
+# Data policies
 
 Make sure your data is backed up, either to a cloud server or a hard drive or both. Options to backup your laptop include:
 For Mac users, Time-machine: [https://support.apple.com/en-gb/HT201250](https://support.apple.com/en-gb/HT201250).
@@ -29,7 +29,7 @@ Computer clusters. The university has two high-performance clusters: [Advanced R
 
 University training course on information security. Please note that to retain access to NHS data, NDM needs to meet a completion rate threshold of the "Information Security" training each year. We are obligated to complete the course. The course only takes 10 minutes to complete and the department will get weekly reports of who has and has not completed the training. Please visit [www.infosec.ox.ac.uk/module](www.infosec.ox.ac.uk/module) to "Book the online Course" and follow through the instructions on the website to register. You will receive an email with details on how to complete the course. 
 
-### Some useful links
+## Some useful links
 
 * The website [www.privacyguides.org](http://www.privacyguides.org) provides a set of recommendations for device and software privacy and security. The advice does tend to be quite severe, but is useful if you have very sensitive data or are very privacy-conscious.
 
