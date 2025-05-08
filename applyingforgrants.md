@@ -50,7 +50,7 @@ After having the first draft of your project, you might consider:
  
 ## The interview
 
-If your application process involves an interview, it's always helpful to arrange a MOC interview to get prepared (for example, two weeks in advance). You may wish to discuss this possibility with your current line manager or in the [OU Careers Services](https://www.careers.ox.ac.uk/mock-interviews). Below we present some options of questions that may arise.
+If your application process involves an interview, it's always helpful to arrange a mock interview to get prepared (for example, two weeks in advance). You may wish to discuss this possibility with your current line manager or in the [OU Careers Services](https://www.careers.ox.ac.uk/mock-interviews). Below we present some options of questions that may arise.
 
 * Tell us about why this project is important?
 * What work have you done in this area previously?
